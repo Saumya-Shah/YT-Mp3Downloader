@@ -1,4 +1,4 @@
-This is a helper to download Youtube videos as Mp3s for offline music access. These shouldn't be used for commercial purposes and users of this script are responsible for all the legal issues around this.
+Basic script to download Youtube videos and playlists as Mp3s for offline access. 
 
 ## HowTo:
 
@@ -8,3 +8,6 @@ This is a helper to download Youtube videos as Mp3s for offline music access. Th
 3. Enter the youtube playlist/video url when prompted
 
 The download speeds are quite low, maybe run it overnight for bulk downloads
+
+## Legal boilerplate
+Users of this script are solely responsible for all the legal issues around this.
